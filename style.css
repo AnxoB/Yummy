@@ -1,8 +1,8 @@
 body{
     height: 100%;
     font-family: 'Open Sans';
-}
-
+    color: #590209;
+}   
 ul{
     list-style: none;
 }
@@ -13,6 +13,7 @@ nav ul{
 }
 a{
     text-decoration: none;
+    color: #590209;
 }
 article img{
     width: 50%;
@@ -83,4 +84,11 @@ footer{
     align-items: center;
     background-color: black;
     color: white;
+}
+button{
+    background-color: #F8F6E9;
+    border-radius: 5px;
+    border-color: #590209;
+    color: #590209;
+    padding: 30px;
 }
